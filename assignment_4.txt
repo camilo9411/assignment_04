@@ -16,6 +16,7 @@ the person's age in years, maximum heart rate and target-heart-rate range.
 
 Question 2)
 
+
 you will design a "starter" Profile class for a person. The class
 attributes should include the person's first name, last name, gender, date of 
 birth (consisting of separate attributes for the month,day and year of birth),
